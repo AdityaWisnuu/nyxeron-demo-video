@@ -1,0 +1,8 @@
+node_modules/
+out/
+.DS_Store
+recorder/state*.json
+recorder/frames/
+recorder/clips/
+recorder/*.log
+recorder/cmd*.txt
